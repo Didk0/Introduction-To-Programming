@@ -1,0 +1,3 @@
+﻿  Task2.cpp
+D:\Programming\IP 2020-2021\Homeworks\HW2\Task2\Task2.cpp(20,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Task2.vcxproj -> D:\Programming\IP 2020-2021\Homeworks\HW2\Debug\Task2.exe

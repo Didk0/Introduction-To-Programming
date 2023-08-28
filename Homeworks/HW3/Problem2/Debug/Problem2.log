@@ -1,0 +1,5 @@
+﻿  BullsAndCows.cpp
+  Problem2.cpp
+  Generating Code...
+BullsAndCows.obj : error LNK2019: unresolved external symbol "int const * __cdecl tryGuess(int)" (?tryGuess@@YAPBHH@Z) referenced in function "void __cdecl play(void)" (?play@@YAXXZ)
+D:\Programming\IP 2020-2021\Homeworks\HW3\Debug\Problem2.exe : fatal error LNK1120: 1 unresolved externals
