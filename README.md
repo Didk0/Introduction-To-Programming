@@ -1,2 +1,2 @@
 # Introduction-To-Programming
-Задачи от курса Увод в програмирането, спец. Информатика, СУ "Св. Климент Охридски"
+Problems and homeworks from the course IP in FMI
